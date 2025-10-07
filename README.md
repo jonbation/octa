@@ -60,7 +60,4 @@ onClick = {
 
 ```
 
-## Resources
 
-- https://medium.com/@theAndroidDeveloper/creating-and-publishing-your-own-android-library-an-in-depth-guide-26de164c96c2
-- https://github.com/technophilist/branded-buttons-compose
